@@ -1,0 +1,10 @@
+
+
+
+usar este comando en el cmd al iniciar el programa:
+py -m pip install streamlit sympy numpy matplotlib scipy
+esto te sale al finalizar
+WARNING: The script websockets.exe is installed in 'C:\Users\user\AppData\Local\Programs\Python\Python313\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The script watchmedo.exe is installed in 'C:\Users\user\AppData\Local\Programs\Python\Python313\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
